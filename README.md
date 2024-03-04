@@ -1,3 +1,5 @@
+Moved to [SourceHut](https://git.sr.ht/~diego-est/cpp-matrix)
+
 # matrix
 
 Super simple C++ templates to use for ICPC problems where you require the use of
